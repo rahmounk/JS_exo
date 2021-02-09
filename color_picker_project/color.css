@@ -1,3 +1,4 @@
+/* CSS BODY + HEADER nav */
 body{  
     font-family : "Raleway";
 }
@@ -140,7 +141,7 @@ body{
     visibility: hidden;
 }
 
-/* ----------------------------- */
+/* CSS MAIN (Color picker) */
 
 main {
     height: auto;
@@ -149,3 +150,4 @@ main {
     justify-content: center;
     align-items: center;
 }
+

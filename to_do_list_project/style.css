@@ -1,3 +1,4 @@
+/* CSS BODY + HEADER nav */
 body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744-fdf325f6fa54.jpg');
     font-family : "Raleway";
 }
@@ -136,7 +137,7 @@ body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744
 	transform: translateY(25%) rotateX(-35deg);
 }
 
-/* --------------------- */
+/* CSS Contenu principal account creation */
 
 #section_account {
     height: 80vh;
