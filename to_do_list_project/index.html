@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO DO LIST</title>
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+    <!-- cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <!-- link css -->
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+    <!-- HEADER! -->
+    <input class="input1" type="checkbox" id="op"></input>
+    <div class="lower">
+            <label for="op">LES PROJETS JS</label>
+    </div>
+    <div class="overlay overlay-hugeinc">
+			<label for="op"></label>
+			<nav>
+				<ul>
+					<li><a href="index.html">To do list !</a></li>
+					<li><a href="../create_account_project/account.html">Create Account</a></li>
+					<li><a href="../color_picker_project/color.html">Color Picker</a></li>
+					<li><a href="#">?</a></li>
+					<li><a href="#">?</a></li>
+				</ul>
+			</nav>
+    </div>
+
+    <!--***MAIN CONTENT -->
+    <!-- TO DO LIST ! -->
+    <section id="list_body" class="heading">
+        <div id="container_list">
+            <!--***header avec image et titre -->
+            <div>
+                <img class="heading_img" src="unnamed.png" width="100px">
+                <h1 class="heading_title">To-Do List</h1>
+                <form class="form">
+            </div>
+    
+            <!--***champ avec unput pour entrer des taches -->
+            <div id="reception_todolist">
+                <label class="form_label" for="todo">~ Today I need to ~</label>
+                <input class="form_input"
+                    type="text" 
+                    id="todo" 
+                    name="to-do"
+                    size="30"
+                required>
+                <button class="button_add"> ADD </button>
+                
+            </div>
+
+            <!--***liste des taches à faire -->
+            <div id="reception_list">
+                <h2>A FAIRE :</h2>
+                
+                <ul class="toDoList">
+
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+    
+
+    
+
+    <!-- ADDING JAVASCRIPT -->
+    <script src="to_do.js"></script>
+</body>
+</html>
