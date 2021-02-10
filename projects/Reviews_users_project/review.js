@@ -5,7 +5,7 @@ const reviews = [
       name: "susan smith",
       job: "web developer",
       img:
-         "https://www.servicesalapersonne.net/public/img/medium/woman46301311920jpg_5ffda0c8bc3f5.jpg",
+         "https://i.pinimg.com/originals/79/b5/90/79b590d2b86b1b5f92c156899397c559.jpg",
       text:
          "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
    },
@@ -14,7 +14,7 @@ const reviews = [
       name: "anna johnson",
       job: "web designer",
       img:
-         "https://static6.depositphotos.com/1003989/647/i/600/depositphotos_6470969-stock-photo-portrait-of-yong-woman.jpg",
+         "https://fr.web.img5.acsta.net/r_1280_720/medias/nmedia/18/63/28/30/18930048.jpg",
       text:
          "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
    },
@@ -23,7 +23,7 @@ const reviews = [
       name: "peter jones",
       job: "intern",
       img:
-         "https://static7.depositphotos.com/1000998/743/i/600/depositphotos_7439782-stock-photo-man-in-grey-suit-watching.jpg",
+         "https://i.pinimg.com/originals/b7/7d/0b/b77d0b2415a10889e8edcefa6d1ed57b.jpg",
       text:
          "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
    },
@@ -32,7 +32,7 @@ const reviews = [
       name: "bill anderson",
       job: "the boss",
       img:
-         "http://idata.over-blog.com/1/89/64/16//RuizPieds1.jpg",
+         "https://www.mikeymo.nl/wp-content/uploads/2015/01/street-fighter-screen2.jpg",
       text:
          "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
    },
