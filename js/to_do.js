@@ -13,6 +13,7 @@ todoAdd.addEventListener('click',(e) =>{
     //! si value = 0 alors
     if(todoInput.value === ""){
         
+        
        
     }else{
         // création de mes 2 boutons
