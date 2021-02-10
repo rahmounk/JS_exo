@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review Users</title>
+    <!-- CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <!-- link css review -->
+    <link rel="stylesheet" href="review.css">
+</head>
+
+<body>
+
+    <!-- HEADER! -->
+    <input class="input1" type="checkbox" id="op"></input>
+    <div class="lower">
+        <label for="op">LES PROJETS JS</label>
+    </div>
+    <div class="overlay overlay-hugeinc">
+        <label for="op"></label>
+        <nav>
+            <ul>
+                <li><a href="../../index.html">To do list !</a></li>
+                <li><a href="projects/create_account_project/account.html">Create Account</a></li>
+                <li><a href="projects/color_picker_project/color.html">Color Picker</a></li>
+                <li><a href="review.html">Review Users</a></li>
+                <li><a href="#">?</a></li>
+            </ul>
+        </nav>
+    </div>
+
+
+    <!-- MAIN CONTENT REVIEW USERS -->
+    <main>
+        <section class="container">
+            <div class="title">
+                <h2>Our reviews &#x1F600;</h2>
+                <div class="divider"></div>
+            </div>
+            <article class="review">
+                <div class="img-container">
+                    <img src="images/default.jpg" alt="" id="person-img">
+                </div>
+                <h4 id="author"></h4>
+                <p class="job"></p>
+                <p id="comment"></p>
+                <div class="button-container">
+                    <button class="prev-btn">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="next-btn">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+                <button class="random-btn">
+                    <i class="fas fa-random"></i>
+                </button>
+            </article>
+        </section>
+    </main>
+    
+    <script src="review.js"></script>
+</body>
+
+</html>
