@@ -2,13 +2,13 @@
 body{
     background-image: url("https://cdn.shopify.com/s/files/1/1591/4511/products/il_fullxfull.852243227_dfev_1024x1024.jpg?v=1478774851");
     font-family : "Raleway";
-    height: 80vh;
+    height: 100vh;
 }
 
 
 .lower{
   width:340px;
-  margin:10% auto;
+  margin:auto;
   padding:50px;
   background:white;
   opacity:0.8;
@@ -140,7 +140,3 @@ input{
 }
 
 /* --------------------- */
-
-main {
-    height: 100%;
-}

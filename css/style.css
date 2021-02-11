@@ -1,6 +1,7 @@
 /* CSS BODY + HEADER nav */
 body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744-fdf325f6fa54.jpg');
     font-family : "Raleway";
+    height: 100vh;
 }
 /* https://i.pinimg.com/736x/51/7a/46/517a4651f599ac3d8cc91e3782405bf7.jpg */
 
@@ -13,7 +14,7 @@ body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744
 
 .lower{
   width:340px;
-  margin:10% auto;
+  margin: auto;
   padding:50px;
   background:white;
   opacity:0.8;
@@ -200,7 +201,7 @@ body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744
 #list_body #container_list {
     width: 30vw;
     height: 25vh;
-    margin: 0;
+    margin-top: 50px;
     padding: 0;
     border: 1px solid #4e4e4e;
     box-shadow: 7px 6px 19px -2px rgba(65, 65, 65, 0.75);
@@ -210,7 +211,7 @@ body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(247, 247, 247);
 }
 #list_body #reception_todolist {
     width: 100%;
@@ -224,7 +225,7 @@ body{   background:url('https://compote.slate.com/images/80aab072-5197-4d36-8744
     height: 100%;
     border: 1px solid #6d6d6d;
     box-shadow: 7px 6px 19px -2px rgba(65, 65, 65, 0.75);
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(247, 247, 247);
     margin-top: 50px;
 }
 #list_body #reception_list h2 {
